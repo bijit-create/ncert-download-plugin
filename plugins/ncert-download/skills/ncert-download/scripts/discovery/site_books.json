@@ -1,0 +1,8826 @@
+[
+{
+"cls": 1,
+"subject": "English",
+"title": "Mridang",
+"code": "aemr1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (English)",
+"code": "aejm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Hindi)",
+"code": "ahjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Marathi)",
+"code": "amrjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Sindhi)",
+"code": "asijm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Punjabi)",
+"code": "apjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Gujarati)",
+"code": "agjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Malayalam)",
+"code": "ayjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Konkani)",
+"code": "akjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Assamese)",
+"code": "aajm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Maithili)",
+"code": "aijm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Bodo)",
+"code": "aojm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Sanskrit)",
+"code": "askjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Oriya)",
+"code": "aorjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Bengali)",
+"code": "abnjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Santhali)",
+"code": "asnjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Manipuri)",
+"code": "amnjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Urdu)",
+"code": "aujm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Nepali)",
+"code": "anpjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Telugu)",
+"code": "atljm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Kannada)",
+"code": "aknjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Tamil)",
+"code": "atmjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Dogri)",
+"code": "adgjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Kashmiri)",
+"code": "aksjm1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 1,
+"subject": "Hindi",
+"title": "Sarangi",
+"code": "ahsr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 1,
+"subject": "Urdu",
+"title": "Shahnai",
+"code": "aush1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (English)",
+"code": "bejm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Hindi)",
+"code": "bhjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Assamese)",
+"code": "basjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Punjabi)",
+"code": "bpnjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Gujarati)",
+"code": "bgjjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Malayalam)",
+"code": "bmljm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Maithli)",
+"code": "bmtjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Bodo)",
+"code": "bbdjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Marathi)",
+"code": "bmrjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Sindhi)",
+"code": "bsijm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Bengali)",
+"code": "bbnjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Sanskrit)",
+"code": "bskjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Nepali)",
+"code": "bnpjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Oriya)",
+"code": "borjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Manipuri)",
+"code": "bmnjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Urdu)",
+"code": "bujm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Santhali)",
+"code": "bsnjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Konkani)",
+"code": "bkojm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Kannada)",
+"code": "bknjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Tamil)",
+"code": "btmjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Telugu)",
+"code": "btljm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Dogri)",
+"code": "bdgjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Mathematics",
+"title": "Joyful-Mathematics (Kashmiri)",
+"code": "bksjm1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 2,
+"subject": "Hindi",
+"title": "Sarangi",
+"code": "bhsr1",
+"ch0": 0,
+"nch": 26
+},
+{
+"cls": 2,
+"subject": "English",
+"title": "Mridang",
+"code": "bemr1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 2,
+"subject": "Urdu",
+"title": "Shahnai",
+"code": "bush1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela",
+"code": "cemm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Ganit Mela",
+"code": "chmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Riyazi Mela",
+"code": "cumm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Assamese)",
+"code": "casmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Bengali)",
+"code": "cbnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Bodo)",
+"code": "cbdmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Dogri)",
+"code": "cdgmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Gujarati)",
+"code": "cgjmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Kannada)",
+"code": "cknmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Maithili)",
+"code": "cmtmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Malayalam)",
+"code": "cmlmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Manipuri)",
+"code": "cmnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Nepali)",
+"code": "cnpmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Odia)",
+"code": "cormm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Punjabi)",
+"code": "cpnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Santhali)",
+"code": "csnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Tamil)",
+"code": "ctmmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Telugu)",
+"code": "ctlmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Sanskrit)",
+"code": "cskmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Marathi)",
+"code": "cmrmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Konkani)",
+"code": "ckomm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Sindhi)",
+"code": "csimm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Mathematics",
+"title": "Maths Mela (Kashmiri)",
+"code": "cksmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 3,
+"subject": "Hindi",
+"title": "Veena",
+"code": "chve1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 3,
+"subject": "Urdu",
+"title": "Sitar",
+"code": "cust1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 3,
+"subject": "English",
+"title": "Santoor",
+"code": "cesa1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World",
+"code": "ceev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Hamara Adhbhut Sansar",
+"code": "chev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Hamari Hairat Angez Duniya",
+"code": "cuev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Bengali)",
+"code": "cbnev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Odia)",
+"code": "corev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Marathi)",
+"code": "cmrev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Nepali)",
+"code": "cnpev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Telugu)",
+"code": "ctlev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Gujrati)",
+"code": "cgjev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Manipuri)",
+"code": "cmnev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Sanskrit)",
+"code": "cskev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Assamese)",
+"code": "casev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Bodo)",
+"code": "cbdev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Punjabi)",
+"code": "cpnev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Malayalam)",
+"code": "cmlev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Maithili)",
+"code": "cmtev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Dogri)",
+"code": "cdgev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Kannada)",
+"code": "cknev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Santhali)",
+"code": "csnev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Tamil)",
+"code": "ctmev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Sindhi)",
+"code": "csiev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Kashmiri)",
+"code": "cksev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Konkani)",
+"code": "ckoev1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I",
+"code": "cebu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Hindi)",
+"code": "chbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Urdu)",
+"code": "cubu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Bengali)",
+"code": "cbnbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Maithili)",
+"code": "cmtbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Manipuri)",
+"code": "cmnbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Marathi)",
+"code": "cmrbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Nepali)",
+"code": "cnpbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Punjabi)",
+"code": "cpnbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Bodo)",
+"code": "cbdbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Gujarati)",
+"code": "cgjbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Dogri)",
+"code": "cdgbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Konkani)",
+"code": "ckobu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Santhali)",
+"code": "csnbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Tamil)",
+"code": "ctmbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Telugu)",
+"code": "ctlbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Assamese)",
+"code": "casbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Kannada)",
+"code": "cknbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Sanskrit)",
+"code": "cskbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Malayalam)",
+"code": "cmlbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Odia)",
+"code": "corbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Sindhi)",
+"code": "csibu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Arts",
+"title": "Bansuri - I (Kashmiri)",
+"code": "cksbu1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga",
+"code": "ceky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Hindi)",
+"code": "chky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Malayalam)",
+"code": "cmlky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Bengali)",
+"code": "cbnky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Gujarati)",
+"code": "cgjky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Kannada)",
+"code": "cknky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Konkani)",
+"code": "ckoky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Manipuri)",
+"code": "cmnky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Nepali)",
+"code": "cnpky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Odia)",
+"code": "corky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Assamese)",
+"code": "casky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Dogri)",
+"code": "cdgky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Punjabi)",
+"code": "cpnky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Sanskrit)",
+"code": "cskky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Santhali)",
+"code": "csnky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Tamil)",
+"code": "ctmky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Marathi)",
+"code": "cmrky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Bodo)",
+"code": "cbdky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Telugu)",
+"code": "ctlky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Maithili)",
+"code": "cmtky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Urdu)",
+"code": "cuky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Sindhi)",
+"code": "csiky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 3,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Kashmiri)",
+"code": "cksky1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela",
+"code": "demm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Ganit Mela",
+"code": "dhmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Riyazi Mela",
+"code": "dumm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Maithili)",
+"code": "dmtmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Punjabi)",
+"code": "dpnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Gujarati)",
+"code": "dgjmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Dogri)",
+"code": "ddgmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Nepali)",
+"code": "dnpmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Manipuri)",
+"code": "dmnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Assamese)",
+"code": "dasmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Sindhi)",
+"code": "dsimm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Odia)",
+"code": "dormm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Bodo)",
+"code": "dbdmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Bengali)",
+"code": "dbnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Marathi)",
+"code": "dmrmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Kannada)",
+"code": "dknmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Malayalam)",
+"code": "dmlmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Sanskrit)",
+"code": "dskmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Tamil)",
+"code": "dtmmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Santhali)",
+"code": "dsnmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Telugu)",
+"code": "dtlmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Konkani)",
+"code": "dkomm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Mathematics",
+"title": "Math-Mela (Kashmiri)",
+"code": "dksmm1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 4,
+"subject": "Hindi",
+"title": "Veena",
+"code": "dhve1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wonderous World",
+"code": "deev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Hamara Adhbhut Sansar",
+"code": "dhev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Hamari Hairatangez Duniya ",
+"code": "duev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Punjabi)",
+"code": "dpev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Gujarati)",
+"code": "dgjev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Kannada)",
+"code": "dknev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Sanskrit)",
+"code": "dskev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Konkani)",
+"code": "dkoev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Bengali)",
+"code": "dbnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Odia)",
+"code": "dorev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Marathi)",
+"code": "dmrev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Malayalam)",
+"code": "dmlev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Bodo)",
+"code": "dbdev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Nepali)",
+"code": "dnpev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Assamese)",
+"code": "dasev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Dogri)",
+"code": "ddgev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Manipuri)",
+"code": "dmnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Tamil)",
+"code": "dtmev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Kashmiri)",
+"code": "dksev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Telugu)",
+"code": "dtlev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Sindhi)",
+"code": "dsiev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Santhali)",
+"code": "dsnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "The World Around Us",
+"title": "Our Wondrous World (Maithili)",
+"code": "dmtev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 4,
+"subject": "English",
+"title": "Santoor",
+"code": "desa1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri",
+"code": "debu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Hindi)",
+"code": "dhbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Urdu)",
+"code": "dubu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Odia)",
+"code": "dorbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Gujarati)",
+"code": "dgjbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Punjabi)",
+"code": "dpnbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Sindhi)",
+"code": "dsibu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Tamil)",
+"code": "dtmbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Bodo)",
+"code": "dbdbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Nepali)",
+"code": "dnpbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Konkani)",
+"code": "dkobu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Assamese)",
+"code": "dasbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Bengali)",
+"code": "dbnbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Dogri)",
+"code": "ddgbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Manipuri)",
+"code": "dmnbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Sanskrit)",
+"code": "dskbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Malayalam)",
+"code": "dmlbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Kannada)",
+"code": "dknbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Kashmiri)",
+"code": "dksbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Maithili)",
+"code": "dmtbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Marathi)",
+"code": "dmrbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Santhali)",
+"code": "dsnbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Arts",
+"title": "Bansuri - I (Telugu)",
+"code": "dtlbu1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga",
+"code": "deky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Hindi)",
+"code": "dhky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Odia)",
+"code": "dorky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Gujarati)",
+"code": "dgjky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Bengali)",
+"code": "dbnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Assamese)",
+"code": "dasky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Tamil)",
+"code": "dtmky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Punjabi)",
+"code": "dpnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Marathi)",
+"code": "dmrky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Telugu)",
+"code": "dtlky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Dogri)",
+"code": "ddgky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Kannada)",
+"code": "dknky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Nepali)",
+"code": "dnpky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Sanskrit)",
+"code": "dskky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Kashmiri)",
+"code": "dksky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Malayalam)",
+"code": "dmlky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Manipuri)",
+"code": "dmnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Bodo)",
+"code": "dbdky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Maithili)",
+"code": "dmtky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Konkani)",
+"code": "dkoky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Sindhi)",
+"code": "dsiky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga (Santhali)",
+"code": "dsnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 4,
+"subject": "Urdu",
+"title": "Sitaar",
+"code": "dust1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela",
+"code": "eemm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Ganit-Mela",
+"code": "ehmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Riyazi Mela",
+"code": "eumm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Tamil)",
+"code": "etmmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Marathi)",
+"code": "emrmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Odia)",
+"code": "eormm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Punjabi)",
+"code": "epnmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Manipuri)",
+"code": "emnmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Kannada)",
+"code": "eknmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Nepali)",
+"code": "enpmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Konkani)",
+"code": "ekomm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Assamese)",
+"code": "easmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Bodo)",
+"code": "ebdmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Bengali)",
+"code": "ebnmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Dogri)",
+"code": "edgmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Malayalam)",
+"code": "emlmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Telugu)",
+"code": "etlmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Kashmiri)",
+"code": "eksmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Gujarati)",
+"code": "egjmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Sindhi)",
+"code": "esimm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Santhali)",
+"code": "esnmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Maithili)",
+"code": "emtmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Mathematics",
+"title": "Math-Mela (Sanskrit)",
+"code": "eskmm1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 5,
+"subject": "Hindi",
+"title": "Veena",
+"code": "ehve1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 5,
+"subject": "English",
+"title": "Santoor",
+"code": "eesa1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World",
+"code": "eeev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Hamara Adbhut Sansar",
+"code": "ehev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Hamari Hairatangez Duniya",
+"code": "euev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Odia)",
+"code": "eorev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Gujarati)",
+"code": "egjev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Santhali)",
+"code": "esnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Dogri)",
+"code": "edgev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Malayalam)",
+"code": "emlev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Sanskrit)",
+"code": "eskev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Bengali)",
+"code": "ebnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Nepali)",
+"code": "enpev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Kannada)",
+"code": "eknev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Punjabi)",
+"code": "epnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Tamil)",
+"code": "etmev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Manipuri)",
+"code": "emnev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Marathi)",
+"code": "emrev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Telugu)",
+"code": "etlev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Assamese)",
+"code": "easev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Kashmiri)",
+"code": "eksev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Bodo)",
+"code": "ebdev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Maithili)",
+"code": "emtev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Konkani)",
+"code": "ekoev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "The World Around Us",
+"title": "Our Wonderous World (Sindhi)",
+"code": "esiev1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri",
+"code": "eebu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Hindi)",
+"code": "ehbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Urdu)",
+"code": "eubu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Gujarati)",
+"code": "egjbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Maithili)",
+"code": "emtbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Odia)",
+"code": "eorbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Punjabi)",
+"code": "epnbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Kannada)",
+"code": "eknbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Bengali)",
+"code": "ebnbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Dogri)",
+"code": "edgbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Tamil)",
+"code": "etmbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Kashmiri)",
+"code": "eksbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Nepali)",
+"code": "enpbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Assamese)",
+"code": "easbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Sanskrit)",
+"code": "eskbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Marathi)",
+"code": "emrbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Sindhi)",
+"code": "esibu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Telugu)",
+"code": "etlbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Manipuri)",
+"code": "emnbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Malayalam)",
+"code": "emlbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Bodo)",
+"code": "ebdbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Santhali)",
+"code": "esnbu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Arts",
+"title": "Bansuri (Konkani)",
+"code": "ekobu1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga",
+"code": "eeky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Odia)",
+"code": "eorky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Punjabi)",
+"code": "epnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Kannada)",
+"code": "eknky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Bengali)",
+"code": "ebnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Tamil)",
+"code": "etmky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Nepali)",
+"code": "enpky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Maithili)",
+"code": "emtky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Manipuri)",
+"code": "emnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Telugu)",
+"code": "etlky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Gujarati)",
+"code": "egjky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Assamese)",
+"code": "easky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Konkani)",
+"code": "ekoky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Sanskrit)",
+"code": "eskky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Konkani)",
+"code": "ekoky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Bodo)",
+"code": "ebdky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Dogri)",
+"code": "edgky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Kashmiri)",
+"code": "eksky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Marathi)",
+"code": "emrky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Santhali)",
+"code": "esnky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Sindhi)",
+"code": "esiky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yoga(Malayalam)",
+"code": "emlky1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 5,
+"subject": "Urdu",
+"title": "Sitaar",
+"code": "eust1",
+"ch0": 0,
+"nch": 18
+},
+{
+"cls": 6,
+"subject": "Hindi",
+"title": "Malhar",
+"code": "fhml1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh",
+"code": "fekb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Hindi)",
+"code": "fhkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Bengali)",
+"code": "fbnkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Bodo)",
+"code": "fbdkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Dogri)",
+"code": "fdgkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Konkani)",
+"code": "fkokb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Odia)",
+"code": "forkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Punjabi)",
+"code": "fpnkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Malayalam)",
+"code": "fmlkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Kannada)",
+"code": "fknkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Manipuri)",
+"code": "fmnkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Tamil)",
+"code": "ftmkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Gujarati)",
+"code": "fgjkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Maithili)",
+"code": "fmtkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Assamese)",
+"code": "faskb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Nepali)",
+"code": "fnpkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Sanskrit)",
+"code": "fskkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Kashmiri)",
+"code": "fkskb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Marathi)",
+"code": "fmrkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Telugu)",
+"code": "ftlkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Santhali)",
+"code": "fsnkb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Sindhi)",
+"code": "fsikb1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra",
+"code": "feky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Hindi)",
+"code": "fhky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bengali)",
+"code": "fbnky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Punjabi)",
+"code": "fpnky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Assamese)",
+"code": "fasky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Tamil)",
+"code": "ftmky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Nepali)",
+"code": "fnpky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Odia)",
+"code": "forky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Dogri)",
+"code": "fdgky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Telugu)",
+"code": "ftlky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Konkani)",
+"code": "fkoky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kannada)",
+"code": "fknky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Malayalam)",
+"code": "fmlky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bodo)",
+"code": "fbdky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kashmiri)",
+"code": "fksky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Manipuri)",
+"code": "fmnky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Marathi)",
+"code": "fmrky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sanskrit)",
+"code": "fskky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Santhali)",
+"code": "fsnky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sindhi)",
+"code": "fsiky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Maithili)",
+"code": "fmtky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Gujarati)",
+"code": "fgjky1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Physical Education and Well Being",
+"title": "Jismani Taleem aur Tandurusti",
+"code": "fukl1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "English",
+"title": "Poorvi",
+"code": "fepr1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash",
+"code": "fegp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Hindi)",
+"code": "fhgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Odia)",
+"code": "forgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Bodo)",
+"code": "fbdgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Malayalam)",
+"code": "fmlgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Punjabi)",
+"code": "fpngp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Sanskrit)",
+"code": "fskgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Kannada)",
+"code": "fkngp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Tamil)",
+"code": "ftmgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Marathi)",
+"code": "fmrgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Bengali)",
+"code": "fbngp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Telugu)",
+"code": "ftlgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Maithili)",
+"code": "fmtgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Dogri)",
+"code": "fdggp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Nepali)",
+"code": "fnpgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Urdu)",
+"code": "fugp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Assamese)",
+"code": "fasgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Gujarati)",
+"code": "fgjgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Manipuri)",
+"code": "fmngp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Konkani)",
+"code": "fkogp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Santhali)",
+"code": "fsngp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Sindhi)",
+"code": "fsigp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Mathematics",
+"title": "Ganita Prakash (Kashmiri)",
+"code": "fksgp1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond",
+"code": "fees1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Samaj Ka Aadhyan: Bharat or uske aage",
+"code": "fhes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Kannada)",
+"code": "fknes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Kashmiri)",
+"code": "fkses1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Odia)",
+"code": "fores1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Manipuri)",
+"code": "fmnes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Marathi)",
+"code": "fmres1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Punjabi)",
+"code": "fpnes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Dogri)",
+"code": "fdges1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Gujrati)",
+"code": "fgjes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Malayalam)",
+"code": "fmles1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Sanskrit)",
+"code": "fskes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Bengali)",
+"code": "fbnes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Bodo)",
+"code": "fbdes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Maithili)",
+"code": "fmtes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Nepali)",
+"code": "fnpes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Tamil)",
+"code": "ftmes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Telugu)",
+"code": "ftles1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Muashre Ki Daryaft Hindustan aur Us Se Aage (Urdu)",
+"code": "fues1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Santhali)",
+"code": "fsnes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Assamese)",
+"code": "fases1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Konkani)",
+"code": "fkoes1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond (Sindhi)",
+"code": "fsies1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 6,
+"subject": "Sanskrit",
+"title": "Deepakam",
+"code": "fsde1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity",
+"code": "fecu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Jigyasa",
+"code": "fhcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Tajassus",
+"code": "fucu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Malayalam)",
+"code": "fmlcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Tamil)",
+"code": "ftmcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Kannada)",
+"code": "fkncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Maithili)",
+"code": "fmtcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Punjabi)",
+"code": "fpncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Bengali)",
+"code": "fbncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Odia)",
+"code": "forcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Konkani)",
+"code": "fkocu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Manipuri)",
+"code": "fmncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Nepali)",
+"code": "fnpcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Sanskrit)",
+"code": "fskcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Telugu)",
+"code": "ftlcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Assamese)",
+"code": "fascu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Marathi)",
+"code": "fmrcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Bodo)",
+"code": "fbdcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Dogri)",
+"code": "fdgcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Gujarati)",
+"code": "fgjcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Santhali)",
+"code": "fsncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Kashmiri)",
+"code": "fkscu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Science",
+"title": "Curiosity (Sindhi)",
+"code": "fsicu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I",
+"code": "fekr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Hindi)",
+"code": "fhkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Bengali)",
+"code": "fbnkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Konkani)",
+"code": "fkokr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Bodo)",
+"code": "fbdkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Maithili)",
+"code": "fmtkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Manipuri)",
+"code": "fmnkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Assamese)",
+"code": "faskr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Dogri)",
+"code": "fdgkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Dogri)",
+"code": "fdgkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Odia)",
+"code": "forkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Tamil)",
+"code": "ftmkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Gujarati)",
+"code": "fgjkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Kannada)",
+"code": "fknkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Malayalam)",
+"code": "fmlkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Marathi)",
+"code": "fmrkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Sanskrit)",
+"code": "fskkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Nepali)",
+"code": "fnpkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Punjabi)",
+"code": "fpnkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Telugu)",
+"code": "ftlkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Kashmiri)",
+"code": "fkskr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Sindhi)",
+"code": "fsikr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Arts",
+"title": "Kriti-I (Santhali)",
+"code": "fsnkr1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 6,
+"subject": "Urdu",
+"title": "Khayal",
+"code": "fuky1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash",
+"code": "gegp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II",
+"code": "gegp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Hindi)",
+"code": "ghgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Urdu)",
+"code": "gugp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Hindi)",
+"code": "ghgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Bengali)",
+"code": "gbngp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Gujarati)",
+"code": "ggjgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Punjabi)",
+"code": "gpngp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Nepali)",
+"code": "gnpgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Dogri)",
+"code": "gdggp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Tamil)",
+"code": "gtmgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Telugu)",
+"code": "gtlgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Marathi)",
+"code": "gmrgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Kannada)",
+"code": "gkngp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Bodo)",
+"code": "gbdgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Odia)",
+"code": "gorgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Assamese)",
+"code": "gasgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Konkani)",
+"code": "gkogp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Manipuri)",
+"code": "gmngp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Sanskrit)",
+"code": "gskgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Sindhi)",
+"code": "gsigp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Kashmiri)",
+"code": "gksgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Maithili)",
+"code": "gmtgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Malayalam)",
+"code": "gmlgp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash(Santhali)",
+"code": "gsngp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Gujarati)",
+"code": "ggjgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Kannada)",
+"code": "gkngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Marathi)",
+"code": "gmrgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Odia)",
+"code": "gorgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Punjabi)",
+"code": "gpngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Assamese)",
+"code": "gasgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Bengali)",
+"code": "gbngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Tamil)",
+"code": "gtmgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Malayalam)",
+"code": "gmlgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Telugu)",
+"code": "gtlgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Dogri)",
+"code": "gdggp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Bodo)",
+"code": "gbdgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Nepali)",
+"code": "gnpgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Sindhi)",
+"code": "gsigp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Manipuri)",
+"code": "gmngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Maithili)",
+"code": "gmtgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Konkani)",
+"code": "gkogp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Sanskrit)",
+"code": "gskgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Santhali)",
+"code": "gsngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Mathematics",
+"title": "Ganita Prakash-II (Kashmiri)",
+"code": "gksgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti",
+"code": "gekr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Hindi)",
+"code": "ghkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Bengali)",
+"code": "gbnkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Punjabi)",
+"code": "gpnkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Sanskrit)",
+"code": "gskkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Kannada)",
+"code": "gknkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Odia)",
+"code": "gorkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Marathi)",
+"code": "gmrkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Dogri)",
+"code": "gdgkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Bodo)",
+"code": "gbdkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Gujarati)",
+"code": "ggjkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Konkani)",
+"code": "gkokr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Assamese)",
+"code": "gaskr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Maithili)",
+"code": "gmtkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Santhali)",
+"code": "gsnkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Tamil)",
+"code": "gtmkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Nepali)",
+"code": "gnpkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Sindhi)",
+"code": "gsikr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Telugu)",
+"code": "gsikr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Manipuri)",
+"code": "gmnkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Malayalam)",
+"code": "gmlkr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Arts",
+"title": "Kriti-I (Kashmiri)",
+"code": "gkskr1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 7,
+"subject": "Hindi",
+"title": "Malhar",
+"code": "ghml1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 7,
+"subject": "Sanskrit",
+"title": "Deepakam",
+"code": "gsde1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity",
+"code": "gecu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Jigyasa",
+"code": "ghcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Tajassus",
+"code": "gucu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Marathi)",
+"code": "gmrcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Odia)",
+"code": "gorcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Bengali)",
+"code": "gbncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Punjabi)",
+"code": "gpncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Assamese)",
+"code": "gascu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Tamil)",
+"code": "gtmcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Nepali)",
+"code": "gnpcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Manipuri)",
+"code": "gmncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Telugu)",
+"code": "gtlcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Bodo)",
+"code": "gbdcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Santhali)",
+"code": "gsncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Kannada)",
+"code": "gkncu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Dogri)",
+"code": "gdgcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Konkani)",
+"code": "gkocu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Kashmiri)",
+"code": "gkscu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Malayalam)",
+"code": "gmlcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Maithili)",
+"code": "gmtcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Sanskrit)",
+"code": "gskcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Sindhi)",
+"code": "gsicu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Science",
+"title": "Curiosity (Gujarati)",
+"code": "ggjcu1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "English",
+"title": "Poorvi",
+"code": "gepr1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I",
+"code": "gees1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Samaj Ka Aadhyan: Bharat or uske aage Part-I",
+"code": "ghes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II",
+"code": "gees2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Samaj Ka Aadhyan: Bharat or uske aage Part-II",
+"code": "ghes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Muashrey ki Daryaft - Hindustan aur Uske age Part-I",
+"code": "gues1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Muashrey ki Daryaft - Hindustan aur Uske age Part-II",
+"code": "gues2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Odia)",
+"code": "gores1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Marathi)",
+"code": "gmres1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Punjabi)",
+"code": "gpnes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Konkani)",
+"code": "gkoes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Malayalam)",
+"code": "gmles1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Kannada)",
+"code": "gknes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Dogri)",
+"code": "gdges1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Manipuri)",
+"code": "gmnes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Nepali)",
+"code": "gnpes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Sanskrit)",
+"code": "gskes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Maithili)",
+"code": "gmtes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Assamese)",
+"code": "gases1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Bengali)",
+"code": "gbnes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Bodo)",
+"code": "gbdes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Gujarati)",
+"code": "ggjes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Tamil)",
+"code": "gtmes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Santhali)",
+"code": "gsnes1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Sindhi)",
+"code": "gsies1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Telugu)",
+"code": "gtles1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Kashmiri)",
+"code": "gkses1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Gujarati)",
+"code": "ggjes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Kannada)",
+"code": "gknes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Odia)",
+"code": "gores2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Punjabi)",
+"code": "gpnes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Bengali)",
+"code": "gbnes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Tamil)",
+"code": "gtmes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Malayalam)",
+"code": "gmles2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Assamese)",
+"code": "gases2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Marathi)",
+"code": "gmres2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Telugu)",
+"code": "gmres2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Sanskrit)",
+"code": "gskes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Konkani)",
+"code": "gkoes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Manipuri)",
+"code": "gmnes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Sindhi)",
+"code": "gsies2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Nepali)",
+"code": "gnpes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Bodo)",
+"code": "gbdes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Kashmiri)",
+"code": "gkses2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Santhali)",
+"code": "gsnes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Dogri)",
+"code": "gdges2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II (Maithili)",
+"code": "gmtes2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra",
+"code": "geky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Urdu)",
+"code": "gukl1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Hindi)",
+"code": "ghky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Punjabi)",
+"code": "gpnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Dogri)",
+"code": "gdgky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Santhali)",
+"code": "gsnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Malayalam)",
+"code": "gmlky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Gujarati)",
+"code": "ggjky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Odia)",
+"code": "gorky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bengali)",
+"code": "gbnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Marathi)",
+"code": "gmrky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Konkani)",
+"code": "gkoky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bodo)",
+"code": "gbdky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sanskrit)",
+"code": "gskky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kannada)",
+"code": "gknky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Tamil)",
+"code": "gtmky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Telugu)",
+"code": "gtlky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Manipuri)",
+"code": "gmnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Nepali)",
+"code": "gnpky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Assamese)",
+"code": "gasky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kashmiri)",
+"code": "gksky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Maithili)",
+"code": "gmtky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sindhi)",
+"code": "gsiky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh",
+"code": "gekb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Hindi)",
+"code": "ghkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Telugu)",
+"code": "gtlkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Odia)",
+"code": "gorkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Punjabi)",
+"code": "gpnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Gujarati)",
+"code": "ggjkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Tamil)",
+"code": "gtmkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Dogri)",
+"code": "gdgkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Kannada)",
+"code": "gknkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Nepali)",
+"code": "gnpkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Sanskrit)",
+"code": "gskkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Malayalam)",
+"code": "gmlkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Konkani)",
+"code": "gkokb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Bengali)",
+"code": "gbnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Bodo)",
+"code": "gbdkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Kashmiri)",
+"code": "gkskb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Maithili)",
+"code": "gmtkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Marathi)",
+"code": "gmrkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Santhali)",
+"code": "gsnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Assamese)",
+"code": "gaskb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Manipuri)",
+"code": "gmnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Sindhi)",
+"code": "gsikb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 7,
+"subject": "Urdu",
+"title": "Khayal",
+"code": "guky1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I",
+"code": "hegp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II",
+"code": "hegp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Hindi)",
+"code": "hhgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II (Hindi)",
+"code": "hhgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Urdu)",
+"code": "hugp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Punjabi)",
+"code": "hpngp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Maithili)",
+"code": "hmtgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Marathi)",
+"code": "hmrgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Bengali)",
+"code": "hbngp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Bodo)",
+"code": "hbdgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Nepali)",
+"code": "hnpgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Odia)",
+"code": "horgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Kannada)",
+"code": "hkngp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Telugu)",
+"code": "htlgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Dogri)",
+"code": "hdggp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Konkani)",
+"code": "hkogp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Tamil)",
+"code": "htmgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Kashmiri)",
+"code": "hksgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Manipuri)",
+"code": "hmngp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Sanskrit)",
+"code": "hskgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Santhali)",
+"code": "hsngp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Malayalam)",
+"code": "hmlgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Sindhi)",
+"code": "hsigp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Assamese)",
+"code": "hasgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-I (Gujarati)",
+"code": "hgjgp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Kannada)",
+"code": "hkngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Odia)",
+"code": "horgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Punjabi)",
+"code": "hpngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Gujarati)",
+"code": "hgjgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Tamil)",
+"code": "htmgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Malayalam)",
+"code": "hmlgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Assamese)",
+"code": "hasgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Marathi)",
+"code": "hmrgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Telugu)",
+"code": "htlgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Bengali)",
+"code": "hbngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Santhali)",
+"code": "hsngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Sindhi)",
+"code": "hsigp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Manipuri)",
+"code": "hmngp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Bodo)",
+"code": "hbdgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Dogri)",
+"code": "hdggp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Sanskrit)",
+"code": "hskgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Nepali)",
+"code": "hnpgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Konkani)",
+"code": "hkogp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Kashmiri)",
+"code": "hksgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Mathematics",
+"title": "Ganita Prakash Part-II(Maithili)",
+"code": "hmtgp2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti",
+"code": "hekr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Hindi)",
+"code": "hhkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Urdu)",
+"code": "hukr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Marathi)",
+"code": "hmrkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Tamil)",
+"code": "htmkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Punjabi)",
+"code": "hpnkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Nepali)",
+"code": "hnpkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Odia)",
+"code": "horkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Dogri)",
+"code": "hdgkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Kannada)",
+"code": "hknkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Malayalam)",
+"code": "hmlkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Bodo)",
+"code": "hbdkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Bengali)",
+"code": "hbnkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Telugu)",
+"code": "htlkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Assamese)",
+"code": "haskr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Kashmiri)",
+"code": "hkskr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Sanskrit)",
+"code": "hskkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Gujarati)",
+"code": "hgjkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Konkani)",
+"code": "hkokr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Santhali)",
+"code": "hsnkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Maithili)",
+"code": "hmtkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Manipuri)",
+"code": "hmnkr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Arts",
+"title": "Kriti (Sindhi)",
+"code": "hsikr1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 8,
+"subject": "Hindi",
+"title": "Malhar",
+"code": "hhml1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 8,
+"subject": "Sanskrit",
+"title": "Deepakam",
+"code": "hsde1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity",
+"code": "hecu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Jigyasa",
+"code": "hhcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Tajassus",
+"code": "hucu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Punjabi)",
+"code": "hpncu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Tamil)",
+"code": "htmcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Odia)",
+"code": "horcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Assamese)",
+"code": "hascu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Marathi)",
+"code": "hmrcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Bengali)",
+"code": "hbncu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Dogri)",
+"code": "hdgcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Telugu)",
+"code": "htlcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Bodo)",
+"code": "hbdcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Gujarati)",
+"code": "hgjcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Manipuri)",
+"code": "hmncu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Sanskrit)",
+"code": "hskcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Malayalam)",
+"code": "hmlcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Kannada)",
+"code": "hkncu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Konkani)",
+"code": "hkocu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Maithili)",
+"code": "hmtcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Nepali)",
+"code": "hnpcu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Santhali)",
+"code": "hsncu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Sindhi)",
+"code": "hsicu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "Science",
+"title": "Curiosity (Kashmiri)",
+"code": "hkscu1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 8,
+"subject": "English",
+"title": "Poorvi",
+"code": "hepr1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I",
+"code": "hees1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Samaj Ka Aadhyan: Bharat or uske aage Part-I",
+"code": "hhes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Muashrey ki Daryaft - Hindustan Aur Uske Age Part-I ",
+"code": "hues1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-II",
+"code": "hees2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Odia) ",
+"code": "hores1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Sanskrit) ",
+"code": "hskes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Malayalam) ",
+"code": "hmles1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Punjabi) ",
+"code": "hpnes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Gujarati) ",
+"code": "hgjes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Bengali) ",
+"code": "hbnes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Tamil) ",
+"code": "htmes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Nepali) ",
+"code": "hnpes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Manipuri) ",
+"code": "hmnes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Kannada) ",
+"code": "hknes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Marathi) ",
+"code": "hmres1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Dogri) ",
+"code": "hdges1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Assamese) ",
+"code": "hases1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Konkani) ",
+"code": "hkoes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Maithili) ",
+"code": "hmtes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Bodo) ",
+"code": "hbdes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Kashmiri) ",
+"code": "hkses1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Santhali) ",
+"code": "hsnes1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Telugu) ",
+"code": "htles1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Social Science",
+"title": "Exploring Society India and Beyond Part-I (Sindhi) ",
+"code": "hsies1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra",
+"code": "heky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra ( Hindi)",
+"code": "hhky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Urdu)",
+"code": "huky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Punjabi)",
+"code": "hpnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Marathi)",
+"code": "hmrky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Odia)",
+"code": "horky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Malayalam)",
+"code": "hmlky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Gujarati)",
+"code": "hgjky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sanskrit)",
+"code": "hskky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Nepali)",
+"code": "hnpky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Tamil)",
+"code": "htmky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bengali)",
+"code": "hbnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Dogri)",
+"code": "hdgky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Bodo)",
+"code": "hbdky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kannada)",
+"code": "hknky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Telugu)",
+"code": "htlky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Manipuri)",
+"code": "hmnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Maithili)",
+"code": "hmtky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Assamese)",
+"code": "hasky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Kashmiri)",
+"code": "hksky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Konkani)",
+"code": "hkoky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Sindhi)",
+"code": "hsiky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Physical Education and Well Being",
+"title": "Khel Yatra (Santhali)",
+"code": "hsnky1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh",
+"code": "hekb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh (Hindi)",
+"code": "hhkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Gujarati)",
+"code": "hgjkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Bodo)",
+"code": "hbdkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Odia)",
+"code": "horkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Telugu)",
+"code": "htlkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Sanskrit)",
+"code": "hskkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Punjabi)",
+"code": "hpnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Nepali)",
+"code": "hnpkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Marathi)",
+"code": "hmrkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Kannada)",
+"code": "hknkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Tamil)",
+"code": "htmkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Dogri)",
+"code": "hdgkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Konkani)",
+"code": "hkokb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Maithili)",
+"code": "hmtkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Malayalam)",
+"code": "hmlkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Manipuri)",
+"code": "hmnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Santhali)",
+"code": "hsnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Bengali)",
+"code": "hbnkb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Assamese)",
+"code": "haskb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Sindhi)",
+"code": "hsikb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Vocational Education",
+"title": "Kaushal Bodh(Kashmiri)",
+"code": "hkskb1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 8,
+"subject": "Urdu",
+"title": "Khayal",
+"code": "hukl1",
+"ch0": 0,
+"nch": 21
+},
+{
+"cls": 9,
+"subject": "English",
+"title": "Kaveri",
+"code": "iebe1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 9,
+"subject": "Hindi",
+"title": "Ganga",
+"code": "ihga1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 9,
+"subject": "Sanskrit",
+"title": "Sharada",
+"code": "ihsh1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 9,
+"subject": "Sanskrit",
+"title": "Risikulya(R2)",
+"code": "isanskritr21",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 9,
+"subject": "Mathematics",
+"title": "Ganita Manjari",
+"code": "iemh1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 9,
+"subject": "Mathematics",
+"title": "Ganita Manjari PART-II",
+"code": "iemh2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 9,
+"subject": "Mathematics",
+"title": "Ganita Manjari (Hindi)",
+"code": "ihmh1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 9,
+"subject": "Mathematics",
+"title": "Ganit Manjari (Urdu)",
+"code": "iumh1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 9,
+"subject": "Science",
+"title": "Exploration",
+"code": "iesc1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 9,
+"subject": "Science",
+"title": "Anveshan",
+"code": "ihsc1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 9,
+"subject": "Urdu",
+"title": "Jamuna",
+"code": "iuju1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 9,
+"subject": "Social Science",
+"title": "Understanding Society India and Beyond PART-I",
+"code": "iest1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 9,
+"subject": "Social Science",
+"title": "Understanding Society India and Beyond PART-II",
+"code": "iest2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 9,
+"subject": "Physical Education and Well Being",
+"title": "Khel Praveen",
+"code": "iehp1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 9,
+"subject": "Skill Education",
+"title": "Kaushal Vikas",
+"code": "iekv1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Cashier",
+"code": "ievc1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Store Operations Assistant",
+"code": "ieva1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Solanceous Crop Cultivator",
+"code": "ievs1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Assistant Beauty Therapist",
+"code": "ievt1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Animal Health Workers (Agriculture)",
+"code": "ievw1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Hand Embroiderer (Addawala)",
+"code": "ieve1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Hand Embroiderer",
+"code": "ievh1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Plumber General",
+"code": "iepg1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "IT Domestic Data Entry Operator",
+"code": "ieeo1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Vocational",
+"title": "Employability Skill",
+"code": "iees1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 9,
+"subject": "Arts",
+"title": "Madhurima",
+"code": "iemr1",
+"ch0": 0,
+"nch": 17
+},
+{
+"cls": 10,
+"subject": "Mathematics",
+"title": "Mathematics",
+"code": "jemh1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 10,
+"subject": "Mathematics",
+"title": "Ganit",
+"code": "jhmh1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 10,
+"subject": "Mathematics",
+"title": "Riyazi",
+"code": "jumh1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 10,
+"subject": "Science",
+"title": "Science",
+"code": "jesc1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 10,
+"subject": "Science",
+"title": "Vigyan",
+"code": "jhsc1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 10,
+"subject": "Science",
+"title": "Science(Urdu)",
+"code": "jusc1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 10,
+"subject": "Hindi",
+"title": "Kshitij-2",
+"code": "jhks1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 10,
+"subject": "Hindi",
+"title": "Sparsh",
+"code": "jhsp1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 10,
+"subject": "Hindi",
+"title": "Sanchayan Bhag-2",
+"code": "jhsy1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 10,
+"subject": "Hindi",
+"title": "Kritika",
+"code": "jhkr1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 10,
+"subject": "English",
+"title": "First Flight",
+"code": "jeff1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 10,
+"subject": "English",
+"title": "Foot Prints Without feet Supp. Reader",
+"code": "jefp1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 10,
+"subject": "English",
+"title": "Words and Expressions  2",
+"code": "jewe2",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Contemporary India ",
+"code": "jess1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Samkalin Bharat",
+"code": "jhss1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Aasri Hindustan-II",
+"code": "juss1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Understanding Economic Development",
+"code": "jess2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Arthik Vikas ki Samajh",
+"code": "jhss2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Maashi Taraqqui Ki Samajh",
+"code": "juss2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "India and the Contemporary World-II ",
+"code": "jess3",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Bharat Aur Samakalin Vishav-2",
+"code": "jhss3",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Hindustan Aur Asri Duniya",
+"code": "juss3",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Democratic Politics",
+"code": "jess4",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Loktantrik Rajniti",
+"code": "jhss4",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 10,
+"subject": "Social Science",
+"title": "Jamhuri Siyasat-II ",
+"code": "juss4",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 10,
+"subject": "Sanskrit",
+"title": "Shemushi",
+"code": "jhsk1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 10,
+"subject": "Sanskrit",
+"title": "Vyakaranavithi",
+"code": "jhva1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 10,
+"subject": "Sanskrit",
+"title": "Abhyaswaan Bhav-II",
+"code": "jsab1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 10,
+"subject": "Urdu",
+"title": "Gulzar-e-Urdu",
+"code": "juge1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 10,
+"subject": "Urdu",
+"title": "Nawa-e-Urdu",
+"code": "june1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 10,
+"subject": "Urdu",
+"title": "Jaan Pahechan",
+"code": "jujp1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 10,
+"subject": "Urdu",
+"title": "Door-Paas",
+"code": "judp1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 10,
+"subject": "Urdu",
+"title": "Sab Rang",
+"code": "jusr1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 10,
+"subject": "Health and Physical Education",
+"title": "Health and Physical Education",
+"code": "jehp1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 11,
+"subject": "Sanskrit",
+"title": "Bhaswati",
+"code": "khsk1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Sanskrit",
+"title": "Shashwati",
+"code": "khsk2",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Financial Accounting-I",
+"code": "keac1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Lekhashastra-I",
+"code": "khac1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Accountancy-II",
+"code": "keac2",
+"ch0": 0,
+"nch": 2
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Lekhashastra-II",
+"code": "khac2",
+"ch0": 0,
+"nch": 2
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Khatadari-I(Urdu)",
+"code": "kuac1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Accountancy",
+"title": "Khatadari-II(Urdu)",
+"code": "kuac2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Business Studies",
+"title": "Business Studies",
+"code": "kebs1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Business Studies",
+"title": "Vyavsay Adhyanan",
+"code": "khbs1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Business Studies",
+"title": "Karobari Mutalah I",
+"code": "kubs1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Chemistry Part-I",
+"code": "kech1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Rasayan Vigyan bhag-I",
+"code": "khch1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Keemiya I",
+"code": "kuch1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Chemistry Part II",
+"code": "kech2",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Rasayan Vigyan bhag-II",
+"code": "khch2",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 11,
+"subject": "Chemistry",
+"title": "Keemiya II",
+"code": "kuch2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Mathematics",
+"title": "Mathematics",
+"code": "kemh1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 11,
+"subject": "Mathematics",
+"title": "Ganit",
+"code": "khmh1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 11,
+"subject": "Mathematics",
+"title": "Riyazi I",
+"code": "kumh1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "Floriculturist- Protected Cultivation",
+"code": "kepc1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "Vision Technician",
+"code": "kevt1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "Floriculturist",
+"code": "keoc1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "General Duty Assistant",
+"code": "keda1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "Dairy Farmer Enterpreneur",
+"code": "kedf1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 11,
+"subject": "Vocational",
+"title": "Floriculturist",
+"code": "kefc1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Biology",
+"title": "Biology",
+"code": "kebo1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 11,
+"subject": "Biology",
+"title": "Jeev Vigyan",
+"code": "khbo1",
+"ch0": 0,
+"nch": 19
+},
+{
+"cls": 11,
+"subject": "Biology",
+"title": "Hayatiyaat",
+"code": "kubo1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Human Ecology and Family Sciences Part I ",
+"code": "kehe1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Human Ecology and Family Sciences Part II ",
+"code": "kehe2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Manav Paristhitiki evm pariwar vigyan Bhag-I ",
+"code": "khhe1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Manav Paristhitiki evm pariwar vigyan Bhag-II ",
+"code": "khhe2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Insani Mahauliyat aur Uloom e Khandandari-I ",
+"code": "kuim1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Home Science",
+"title": "Insani Mahauliyat aur Uloom e Khandandari Part-II ",
+"code": "kuim2",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 11,
+"subject": "Psychology",
+"title": "Introduction to Psychology",
+"code": "kepy1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Psychology",
+"title": "Manovigyan",
+"code": "khpy1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Psychology",
+"title": "Nafsiyaat ",
+"code": "kupy1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Indian Economic Development",
+"code": "keec1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Statistics for Economics",
+"code": "kest1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Sankhyiki",
+"code": "khst1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Bhartiya Airthryavstha Ka Vikas ",
+"code": "khec1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Hindustan Ki Moaashi Tarraqqi(Urdu)",
+"code": "kuec1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Economics",
+"title": "Shumariyaat Bar-e-Mushiyat(Urdu)",
+"code": "kusc1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Fundamental of Physical Geography",
+"code": "kegy2",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Bhautique Bhugol ke Mool Sidhant",
+"code": "khgy2",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Hindustan Tabi'i Mahaul (Urdu)",
+"code": "kugy1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Pratical Work in Geography",
+"code": "kegy3",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Bhugol Main Prayogatmak Karya",
+"code": "khgy3",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "India Physical Environment",
+"code": "kegy1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Bhart Bhautik Paryabaran",
+"code": "khgy1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Jughrafia Mein Aamli Kam (Urdu)",
+"code": "kugy3",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Geography",
+"title": "Tabi'i Jughraiya Ka Mubadiyat (Urdu)",
+"code": "kugm1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Physics Part-I",
+"code": "keph1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Bhautiki-I",
+"code": "khph1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Tabiyaat-I",
+"code": "kuph1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Physics Part-II",
+"code": "keph2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Bhautiki-II",
+"code": "khph2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Physics",
+"title": "Tabiyaat-II",
+"code": "kuph2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "Hindi",
+"title": "Antra",
+"code": "khat1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 11,
+"subject": "Hindi",
+"title": "Aroh",
+"code": "khar1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 11,
+"subject": "Hindi",
+"title": "Vitan",
+"code": "khvt1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Hindi",
+"title": "Antral",
+"code": "khan1",
+"ch0": 0,
+"nch": 2
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Introducing Sociology",
+"code": "kesy1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Samaj Shastra Parichay-I",
+"code": "khsy1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Samajiyaat Ka Tarf",
+"code": "kusy1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Understanding Society",
+"code": "kesy2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Samaj ka Bodh",
+"code": "khsy2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Sociology",
+"title": "Mutala-e-Muashira",
+"code": "kusy2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "English",
+"title": "Woven Words",
+"code": "keww1",
+"ch0": 0,
+"nch": 27
+},
+{
+"cls": 11,
+"subject": "English",
+"title": "Hornbill",
+"code": "kehb1",
+"ch0": 0,
+"nch": 14
+},
+{
+"cls": 11,
+"subject": "English",
+"title": "Snapshots Suppl.Reader English",
+"code": "kesp1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "Political Theory",
+"code": "keps1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "Raajneeti Sidhant",
+"code": "khps1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "Hindustani Aain aur Kaam",
+"code": "kups1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "India Constitution at Work",
+"code": "keps2",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "Bharat ka Samvidhan Sidhant aur Vyavhar",
+"code": "khps2",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Political Science",
+"title": "Siyasi Nazaria",
+"code": "kups2",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "History",
+"title": "Themes in World History",
+"code": "kehs1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "History",
+"title": "Vishwa Itihas Ke Kuch Vishay",
+"code": "khhs1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 11,
+"subject": "History",
+"title": "Tareekh-e-Alam per Mabni Mauzuaat Part I",
+"code": "kuta1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Heritage Crafts",
+"title": "Living Craft Traditions of India",
+"code": "kehc1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Heritage Crafts",
+"title": "Hindustan me Dastkari Ki Riwayat",
+"code": "kuhc1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 11,
+"subject": "Graphics design",
+"title": "The story of graphic design",
+"code": "kegd1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Graphics design",
+"title": "graphic design ek kahani",
+"code": "khgd1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "CCT Part-I",
+"code": "kect1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "CCT Part-II",
+"code": "kect2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "Computer aur Sanchar Prodhogiki Part-I",
+"code": "khct1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "Computer aur Sanchar Prodhogiki Part-II",
+"code": "khct2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "Computer Aur Muwaslati Technology I",
+"code": "kuct1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Computers and Communication Technology",
+"title": "Computer Aur Muwaslati Technology II",
+"code": "kuct2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 11,
+"subject": "Fine Art",
+"title": "An Introduction to Indian Art Part-I",
+"code": "kefa1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Fine Art",
+"title": "Bhartiya Kala ka parichay",
+"code": "khfa1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Urdu",
+"title": "Nai Awaz",
+"code": "kuna1",
+"ch0": 0,
+"nch": 20
+},
+{
+"cls": 11,
+"subject": "Urdu",
+"title": "Dhanak",
+"code": "kudh1",
+"ch0": 0,
+"nch": 27
+},
+{
+"cls": 11,
+"subject": "Urdu",
+"title": "Gulistan e Adab",
+"code": "kuga1",
+"ch0": 0,
+"nch": 22
+},
+{
+"cls": 11,
+"subject": "Urdu",
+"title": "Khyabane Urdu",
+"code": "kuku1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 11,
+"subject": "Creative Writing and Translation",
+"title": "Srijan",
+"code": "khsr1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 11,
+"subject": "Creative Writing and Translation",
+"title": "Takhleequi Jauhar",
+"code": "kucw1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 11,
+"subject": "Informatics Practices",
+"title": "Informatics Practices",
+"code": "keip1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Biotechnology",
+"title": "Biotechnology",
+"code": "kebt1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 11,
+"subject": "Computer Science",
+"title": "Computer Science",
+"code": "kecs1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Computer Science",
+"title": "Computer Science - Urdu",
+"code": "kucs1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Health and Physical Education",
+"title": "Health and Physical Education",
+"code": "kehp1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 11,
+"subject": "Knowledge Traditions Practices of India",
+"title": "Knowledge Traditions Practices of India",
+"code": "keks1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 11,
+"subject": "Sangeet",
+"title": "Tabla evam Pakhawaj",
+"code": "khtp1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 11,
+"subject": "Sangeet",
+"title": "Hindustani Sangeet Gayan Evam Vadan",
+"code": "khgv1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Accountancy-I",
+"code": "leac1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Accountancy Part-II",
+"code": "leac2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Lekhashastra Part-I",
+"code": "lhac1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Lekhashastra Part-II",
+"code": "lhac2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Computerised Accounting System",
+"code": "leca1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Khatadari-I(Urdu)",
+"code": "luac1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Accountancy",
+"title": "Khatadari-II(Urdu)",
+"code": "luac2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Mathematics Part-I",
+"code": "lemh1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Mathematics Part-II",
+"code": "lemh2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Ganit-I",
+"code": "lhmh1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Ganit-II",
+"code": "lhmh2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Riyazi-I",
+"code": "lumh1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Mathematics",
+"title": "Riyazi-II",
+"code": "lumh2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Physics Part-I",
+"code": "leph1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Physics Part-II",
+"code": "leph2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Bhautiki-I",
+"code": "lhph1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Bhautiki-II",
+"code": "lhph2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Tabiyaat-I",
+"code": "luph1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Physics",
+"title": "Tabiyaat-II",
+"code": "luph2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Hindi",
+"title": "Antra",
+"code": "lhat1",
+"ch0": 0,
+"nch": 21
+},
+{
+"cls": 12,
+"subject": "Hindi",
+"title": "Aroh",
+"code": "lhar1",
+"ch0": 0,
+"nch": 15
+},
+{
+"cls": 12,
+"subject": "Hindi",
+"title": "Vitan",
+"code": "lhvt1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 12,
+"subject": "Hindi",
+"title": "Antral Bhag 2",
+"code": "lhan1",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 12,
+"subject": "English",
+"title": "Kaliedoscope",
+"code": "lekl1",
+"ch0": 0,
+"nch": 21
+},
+{
+"cls": 12,
+"subject": "English",
+"title": "Flamingo",
+"code": "lefl1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 12,
+"subject": "English",
+"title": "Vistas",
+"code": "levt1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Biotechnology",
+"title": "Biotechnology",
+"code": "lebt1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 12,
+"subject": "Biology",
+"title": "Biology",
+"code": "lebo1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 12,
+"subject": "Biology",
+"title": "Jeev Vigyan",
+"code": "lhbo1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 12,
+"subject": "Biology",
+"title": "Hayatiyaat",
+"code": "lubo1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Themes in Indian History-I",
+"code": "lehs1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Bharatiya Itihas ke kuchh Vishay-I",
+"code": "lhhs1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Themes in Indian History-II",
+"code": "lehs2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Bharatiya Itihas ke kuchh Vishay-II ",
+"code": "lhhs2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Themes in Indian History-III",
+"code": "lehs3",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Bharatiya Itihas ke kuchh Vishay-III",
+"code": "lhhs3",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Tareekh-e-Hind ke Mauzuaat-I(Urdu)",
+"code": "luth1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Tareekh-e-Hind ke Mauzuaat-II(Urdu)",
+"code": "luth2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "History",
+"title": "Tareekh-e-Hind ke Mauzuaat-III(Urdu)",
+"code": "luth3",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Fundamentals of Human Geography",
+"code": "legy1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Practical Work in Geography Part II",
+"code": "legy3",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Manav Bhugol Ke Mool Sidhant",
+"code": "lhgy1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Bhugol main peryojnatmak pryogatmak karye",
+"code": "lhgy3",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "India -People And Economy",
+"code": "legy2",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Bharat log aur arthvyasastha(Bhugol)",
+"code": "lhgy2",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": "Insani Jughrafia Ke Buniyadi Usool(Urdu)",
+"code": "lufh1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": " Hindustan Awam Aur Maishat(Urdu)",
+"code": "lugy1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 12,
+"subject": "Geography",
+"title": " Jughrafia Mein Aamli Kam(Urdu)",
+"code": "lugy3",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Psychology",
+"title": "Psychology",
+"code": "lepy1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Psychology",
+"title": "Manovigyan",
+"code": "lhpy1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Psychology",
+"title": "Nafsiat(Urdu)",
+"code": "lupy1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Indian Society",
+"code": "lesy1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Bhartiya Samaj",
+"code": "lhsy1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Social Change and Development in India",
+"code": "lesy2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Bharat main Samajik Parivartan aur Vikas",
+"code": "lhsy2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Hindustani Samaj(Urdu)",
+"code": "luis1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sociology",
+"title": "Hindustan Mein Samaji Tabdili Aur Taraqqi(Urdu)",
+"code": "lusy2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Chemistry-I",
+"code": "lech1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Chemistry-II",
+"code": "lech2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Rasayan vigyan bhag I",
+"code": "lhch1",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Rasayan vigyan bhag II",
+"code": "lhch2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Keemiya-I",
+"code": "luch1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Chemistry",
+"title": "Keemiya-II",
+"code": "luch2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sanskrit",
+"title": "Bhaswati",
+"code": "lhsk1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 12,
+"subject": "Sanskrit",
+"title": "Shaswati",
+"code": "lhsk2",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Contemporary World Politics",
+"code": "leps1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Samkalin Vishwa Rajniti",
+"code": "lhps1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Politics in India Since Independence",
+"code": "leps2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Swatantra Bharat Mein Rajniti-II",
+"code": "lhps2",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Aasri Alami Siyasat(Urdu)",
+"code": "lups1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Political Science",
+"title": "Azadi Ke Baad Hindustan Ki Siyasat(Urdu)",
+"code": "luab1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Home Science",
+"title": "Human Ecology and Family Sciences Part I ",
+"code": "lehe1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Home Science",
+"title": "Human Ecology and Family Sciences Part II ",
+"code": "lehe2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Home Science",
+"title": "Manav Paristhitik avam Parivar Vigyan Bhag 1 ",
+"code": "lehh1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Home Science",
+"title": "Manav Paristhitiki avam Parivar Vigyan Bhag 2",
+"code": "lehh2",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Introductory Microeconomics",
+"code": "leec2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Introductory Macroeconomics",
+"code": "leec1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Vyashthi Arthshasrta",
+"code": "lhec2",
+"ch0": 0,
+"nch": 5
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Samashty Arthshastra Ek Parichay",
+"code": "lhec1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Juzvi Maashiyat ka Taruf(Urdu)",
+"code": "lume1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Economics",
+"title": "Kulli Maashiyat Ka Taruf(Urdu)",
+"code": "lume2",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Business Studies-I",
+"code": "lebs1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Vyavasai Adhyan-I",
+"code": "lhbs1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Business Studies-II",
+"code": "lebs2",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Vyavasai Adhyan-II",
+"code": "lhbs2",
+"ch0": 0,
+"nch": 3
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Karobari Uloom I(Urdu)",
+"code": "lubs1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Business Studies",
+"title": "Karobari Uloom II(Urdu)",
+"code": "lubs2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Urdu",
+"title": "Gulistan-e- Adab",
+"code": "luga1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 12,
+"subject": "Urdu",
+"title": "Khayaban-e-Urdu",
+"code": "luku1",
+"ch0": 0,
+"nch": 6
+},
+{
+"cls": 12,
+"subject": "Urdu",
+"title": "Nai Awaz",
+"code": "luna1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 12,
+"subject": "Urdu",
+"title": "Dhanak",
+"code": "ludh1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 12,
+"subject": "Heritage Crafts",
+"title": "Hindustan me Dastkari Ki Riwayat",
+"code": "luhc1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Heritage Crafts",
+"title": "Craft Tradition of India",
+"code": "lehc1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "Heritage Crafts",
+"title": "Bharatiya Hastkla Ki Paramparayen",
+"code": "lhhc1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 12,
+"subject": "New Age Graphics Design",
+"title": "New Age Graphics Design",
+"code": "legd1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 12,
+"subject": "Creative Writing & Translation",
+"title": "Srijan-II",
+"code": "khsr2",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 12,
+"subject": "Creative Writing & Translation",
+"title": "Takhleequi Jauhar",
+"code": "lucw1",
+"ch0": 0,
+"nch": 11
+},
+{
+"cls": 12,
+"subject": "Fine Art",
+"title": "An Introduction to Indian Art Part-II",
+"code": "lefa1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Fine Art",
+"title": "Bhartiya Kala ka Itihaas Bhag 2",
+"code": "lhfa1",
+"ch0": 0,
+"nch": 8
+},
+{
+"cls": 12,
+"subject": "Computer Science",
+"title": "Computer Science",
+"code": "lecs1",
+"ch0": 0,
+"nch": 13
+},
+{
+"cls": 12,
+"subject": "Informatics Practices",
+"title": "Informatics Practices",
+"code": "leip1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sangeet",
+"title": "Tabla evam Pakhawaj",
+"code": "lstp1",
+"ch0": 0,
+"nch": 7
+},
+{
+"cls": 12,
+"subject": "Sangeet",
+"title": "Hindustani Sangeet Gayan Evam Vaadan",
+"code": "lsgv1",
+"ch0": 0,
+"nch": 9
+},
+{
+"cls": 13,
+"subject": "Hindi",
+"title": "Abhivyakti Aur Madhyam",
+"code": "kham1",
+"ch0": 0,
+"nch": 16
+},
+{
+"cls": 13,
+"subject": "Sanskrit",
+"title": "Sanskrit Sahitya parichay",
+"code": "klss1",
+"ch0": 0,
+"nch": 12
+},
+{
+"cls": 13,
+"subject": "Heritage Crafts",
+"title": "Exploring Craft Tradition of India",
+"code": "mehc1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 13,
+"subject": "Heritage Crafts",
+"title": "Bhartiya Hastkala Parmparaon ki Khoj",
+"code": "khhc1",
+"ch0": 0,
+"nch": 10
+},
+{
+"cls": 13,
+"subject": "Urdu",
+"title": "Zuban-O-Adab ki Tareekh",
+"code": "kuza1",
+"ch0": 0,
+"nch": 23
+},
+{
+"cls": 13,
+"subject": "Urdu",
+"title": "Urdu Qwaid aur Insha",
+"code": "juuq1",
+"ch0": 0,
+"nch": 24
+},
+{
+"cls": 13,
+"subject": "Urdu",
+"title": "Izhar Aur Zara-e-Izhar",
+"code": "kuiz1",
+"ch0": 0,
+"nch": 4
+},
+{
+"cls": 14,
+"subject": "Vocational",
+"title": "Organic Farming",
+"code": "geof1",
+"ch0": 0,
+"nch": 5
+}
+]

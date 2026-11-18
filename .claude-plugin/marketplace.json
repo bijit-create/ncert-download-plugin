@@ -1,0 +1,12 @@
+{
+  "name": "ncert-download",
+  "owner": { "name": "bijit-create" },
+  "metadata": { "description": "Download and check NCERT textbook chapter PDFs." },
+  "plugins": [
+    {
+      "name": "ncert-download",
+      "source": "./plugins/ncert-download",
+      "description": "Find, download and check NCERT textbook chapter PDFs in English, Hindi, Urdu and other Indian languages, and lay them out for translation work."
+    }
+  ]
+}

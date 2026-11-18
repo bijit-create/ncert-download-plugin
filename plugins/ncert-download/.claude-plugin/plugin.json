@@ -1,0 +1,6 @@
+{
+  "name": "ncert-download",
+  "version": "1.0.0",
+  "description": "Find, download and check NCERT textbook chapter PDFs in English, Hindi, Urdu and other Indian languages, and lay them out for translation work.",
+  "author": { "name": "bijit-create" }
+}
